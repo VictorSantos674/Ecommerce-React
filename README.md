@@ -173,4 +173,3 @@ Sinta-se à vontade para:
 ---
 
 **Obrigado por visitar o projeto!** 🚀
-Se quiser, posso adaptar esse arquivo automaticamente ao seu repositório GitHub e gerar uma versão com emojis, badges e links personalizados. Deseja isso também?
