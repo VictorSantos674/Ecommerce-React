@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tênis Esportivo",
+      "price": 199.9,
+      "category": "Calçados",
+      "image": "https://via.placeholder.com/300x300?text=Tenis"
+    },
+    {
+      "id": 2,
+      "name": "Camisa Polo",
+      "price": 89.9,
+      "category": "Roupas",
+      "image": "https://via.placeholder.com/300x300?text=Camisa"
+    },
+    {
+      "id": 3,
+      "name": "Jaqueta de Couro",
+      "price": 349.9,
+      "category": "Roupas",
+      "image": "https://via.placeholder.com/300x300?text=Jaqueta"
+    },
+    {
+      "id": 4,
+      "name": "Bota Masculina",
+      "price": 249.9,
+      "category": "Calçados",
+      "image": "https://via.placeholder.com/300x300?text=Bota"
+    }
+  ]
+}
